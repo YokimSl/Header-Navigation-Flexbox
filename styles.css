@@ -1,0 +1,25 @@
+nav {
+    padding: 10px 0px 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content:flex-end; 
+    align-items: center;
+    gap: 40px;
+}
+
+button {
+    background-color: rgb(136, 33, 127);
+    color: aliceblue;
+    border: none;
+    font-size: 12px;
+    border-radius: 8px;
+    width: 70px;
+    height: 40px;
+}
